@@ -57,11 +57,11 @@ var graph1Data =
   ];
 var graph2Data = 
   [{
-    value: 75,
+    value: 90,
     color:"#ee5a28"
   },
   {
-    value : 25,
+    value : 10,
     color : "#e9e9e9"
   },
   ];
